@@ -57,6 +57,7 @@ dependencies = [
     "legend-pydataobj >=2",
     "legend-pygeom-l200 >=0.12",
     "legend-pygeom-l1000 >=0.6.2",
+    "legend-pygeom-hades @ git+https://github.com/legend-exp/legend-pygeom-hades@29ea12b9a509aeef7054f7cd496cc8d5a95133fb",
     "legend-pygeom-tools >=0.7.1",
     "legend-pygeom-hpges >=0.11",
     "matplotlib",
